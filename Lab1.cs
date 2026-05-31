@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        int a = 5;
+        int a = 1;
         Console.WriteLine(a);
     }
 }
